@@ -1,1 +1,1 @@
-[]
+[{"type":"s3","provider":"Minio","access_key":"minioadmin","security_key":"minioadmin","bucket":"files","session_key":"e2cfc141da514afcb91b4bd9e50eef41","endpoint":"http://172.16.60.100:9001"}]
